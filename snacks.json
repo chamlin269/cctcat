@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "code": "1",
+      "title": "Piatos",
+      "image": "./piatos.webp",
+      "price": 12,
+      "servings": 10
+    },
+    {
+      "code": "2",
+      "title": "Vcut",
+      "image": "./vcut.png",
+      "price": 15,
+      "servings": 10
+    },
+    {
+      "code": "3",
+      "title": "Oishi",
+      "image": "uploads/oishi.jpg",
+      "price": "15",
+      "servings": "10"
+    }
+  ]
+}

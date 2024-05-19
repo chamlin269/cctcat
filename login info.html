@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="login info.css" />
+  </head>
+  <body>
+    <div class="container">
+      <form id="myForm">
+        <p>Enter Name:</p>
+        <input type="text" name="Name" id="Name" />
+        <p>Are you a Student or a Teacher?</p>
+        <div class="form">
+          <input type="radio" name="people" id="student" value="Student" />
+          <label for="student">Student</label>
+          <input type="radio" name="people" id="teacher" value="Teacher" />
+          <label for="teacher">Teacher</label>
+          <br /><br />
+        </div>
+        <input type="submit" value="Submit" />
+      </form>
+    </div>
+    <button type="button" id="toggle">Trigger</button>
+    <script>
+      var trigger = document.getElementById("toggle");
+      var form = document.getElementById("myForm"); // Correct form selection
+
+      trigger.addEventListener("click", function () {
+        form.classList.toggle("activate"); // Correct toggling on the form
+      });
+    </script>
+  </body>
+</html>

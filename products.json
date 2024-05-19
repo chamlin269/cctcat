@@ -1,0 +1,113 @@
+jsonObject1 = {
+    "products": [
+        {
+            "class": "1",
+            "title": "Dishes",
+            "image": "./food.jpg",
+            "price": 40
+        },
+                {
+            "class": "2",
+            "title": "Beverages",
+            "image": "./beverages.webp",
+            "price": 40
+        },
+           {
+            "class": "3",
+            "title": "Snacks",
+            "image": "./snacks.jpg",
+            "price": 40
+        }
+
+    ]
+}
+ jsonObject2 = {
+     "products": [
+          {
+            "class": "1",
+            "title": "Dinuguan",
+            "image": "./dinuguan.jpg",
+            "price": 45
+        },
+                {
+            "class": "2",
+            "title": "Fried Chicken",
+            "image": "./friedchicken.jpeg",
+            "price": 25
+        },
+        {
+            "class": "3",
+            "title": "Fried Chicken",
+            "image": "./friedchicken.jpeg",
+            "price": 25
+        },
+           {
+            "class": "4",
+            "title": "BolaBola",
+            "image": "./bolabola.jpg",
+            "price": 20
+        }
+             
+
+    ]
+ }
+ jsonObject3 = {
+     "products": [
+          {
+            "class": "1",
+            "title": "Nature's Spring",
+            "image": "./nature'spring.jpg",
+            "price": 20
+        },
+                {
+            "class": "2",
+            "title": "Coca Cola",
+            "image": "./coke.webp",
+            "price": 25
+        },
+        {
+            "class": "3",
+            "title": "Fried Chicken",
+            "image": "./friedchicken.jpeg",
+            "price": 25
+        },
+           {
+            "class": "4",
+            "title": "BolaBola",
+            "image": "./bolabola.jpg",
+            "price": 20
+        }
+             
+
+    ]
+ }
+  jsonObject4 = {
+     "products": [
+          {
+            "class": "1",
+            "title": "Piatos",
+            "image": "./piatos.webp",
+            "price": 12
+        },
+                {
+            "class": "2",
+            "title": "Vcut",
+            "image": "./vcut.png",
+            "price": 15
+        },
+        {
+            "class": "3",
+            "title": "Fried Chicken",
+            "image": "./friedchicken.jpeg",
+            "price": 25
+        },
+           {
+            "class": "4",
+            "title": "BolaBola",
+            "image": "./bolabola.jpg",
+            "price": 20
+        }
+             
+
+    ]
+ }
